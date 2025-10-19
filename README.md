@@ -21,12 +21,13 @@ I’m always eager to explore new technologies 💻 and craft elegant solutions 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🚀 What I’m Up To
-- 🔭 Working on: **Library Management System** and **Music Player App**
-- 🌱 Learning: **Django REST Framework** and **Kotlin Jetpack Compose**
+🚀 What I’m Up To
+- 🔭 Working on: **Pharmacy Management System** (between pharmacist and supplier) and **Student Fees Payment App**
+- 🌱 Learning: **Django REST Framework** and **Flutter**
 - 💬 Ask me about: **Web Development** and **Android Development**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/alzberalkhateeb/)
 - ⚡ Fun fact: I love mixing creative design with backend logic 🎨💡
+
 
 ---
 
