@@ -1,61 +1,87 @@
-## Hey 👋, I'm Alzber Alkhateeb!
-<a href='https://www.linkedin.com/in/alzberalkhateeb/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/alzberalkhateeb/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/AlzberAlkahteeb'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<h1 align="center">👋 Hey, I'm Alzber Mohammed Alkhateeb</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alzberalkhateeb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/alzberalkhateeb"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:alzber.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlzberAlkahteeb&color=brightgreen" alt="profile views"/>  
+</p>
 
 ---
 
-I’m **Alzber Mohammed Alkhateeb**, a passionate **Full Stack Web Developer 🌐** and **Mobile App Developer 📱** who loves building powerful, creative, and efficient digital solutions.  
-I enjoy exploring new technologies 💻, designing modern user interfaces 🎨, and solving real-world problems through clean and scalable code 🛠️.
+### 🧑‍💻 About Me
+I’m **Alzber Mohammed Alkhateeb**, a passionate **Full Stack Web Developer 🌐** and **Mobile App Developer 📱** from Yemen.  
+I specialize in building modern, scalable, and creative applications that deliver real impact.  
+I’m always eager to explore new technologies 💻 and craft elegant solutions through clean code 🛠️.
 
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me
+### 🚀 What I’m Up To
+- 🔭 Working on: **Library Management System** and **Music Player App**
+- 🌱 Learning: **Django REST Framework** and **Kotlin Jetpack Compose**
+- 💬 Ask me about: **Web Development** and **Android Development**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/alzberalkhateeb/)
+- ⚡ Fun fact: I love mixing creative design with backend logic 🎨💡
 
-- 🔭 &nbsp; I’m currently working on **Library Management System** & **Music Player App**
-- 💡 &nbsp; I love working with both **Frontend & Backend** technologies
-- 🌱 &nbsp; I’m currently learning **Django REST Framework** and **Kotlin Jetpack Compose**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/AlzberAlkahteeb)
-- 💬 &nbsp; Ask me about anything related to **Web or Android Development**, I’ll be happy to help!
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/alzberalkhateeb/)
-- 📝 &nbsp; Portfolio Website (coming soon 💫)
+---
 
-<br>
+### 🧰 Languages and Tools
+<p align="left">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40"/></a>
+  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"/></a>
+  <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/></a>
+  <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/></a>
+  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40"/></a>
+</p>
 
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></a>
-<a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+---
 
-<br><br><br>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlzberAlkahteeb&theme=dracula&no-frame=true&margin-w=10" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
-
-![Alzber's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlzberAlkahteeb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlzberAlkahteeb&layout=compact&theme=radical)
-
----
-
-### 🚀 Featured Projects
-<a href="https://github.com/AlzberAlkahteeb/Library-System" target="_blank"><img alt="Library System" src="https://img.shields.io/badge/Library%20System-Django%20Project-blue?style=for-the-badge&logo=django" height="35"/></a>
-<a href="https://github.com/AlzberAlkahteeb/MusicPlayerApp" target="_blank"><img alt="Music Player" src="https://img.shields.io/badge/Music%20Player-Kotlin%20App-green?style=for-the-badge&logo=android" height="35"/></a>
-<a href="https://github.com/AlzberAlkahteeb/MyNoteApp" target="_blank"><img alt="My Note App" src="https://img.shields.io/badge/My%20Note%20App-SQLite%20+%20Kotlin-orange?style=for-the-badge&logo=sqlite" height="35"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlzberAlkahteeb&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlzberAlkahteeb&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
-### ❤️ Let's Connect!
-💬 If you want to collaborate, share ideas, or just say hi — feel free to contact me anytime!  
-📩 **Email:** alzber.dev@gmail.com  
+### 🌟 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [📚 Library Management System](https://github.com/AlzberAlkahteeb/Library-System) | Complete system to manage books, members, and borrowings | Django, SQLite |
+| [🎵 Music Player App](https://github.com/AlzberAlkahteeb/MusicPlayerApp) | Android app with MediaPlayer, notifications, and UI controls | Kotlin, Android |
+| [📝 My Note App](https://github.com/AlzberAlkahteeb/MyNoteApp) | Simple and elegant note app with SQLite local storage | Kotlin, SQLite |
+
+---
+
+### 📷 Profile Banner
+<p align="center">
+  <!-- ضع هنا رابط صورتك الشخصية أو شعارك -->
+  <img src="https://via.placeholder.com/600x200.png?text=Alzber+Alkhateeb" alt="Profile Banner"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+💬 Let’s collaborate or discuss new ideas!  
+📩 **Email:** [alzber.dev@gmail.com](mailto:alzber.dev@gmail.com)  
 🌍 **Portfolio:** Coming soon...  
 
 ---
