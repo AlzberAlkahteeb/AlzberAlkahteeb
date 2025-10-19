@@ -43,7 +43,8 @@ I’m always eager to explore new technologies 💻 and craft elegant solutions 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
   <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/></a>
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canva_Logo.png" alt="Canva" height="40"/></a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canva_Logo.png" alt="Canva" height="40"/>
+
 </p>
 
 ---
